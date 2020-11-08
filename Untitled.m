@@ -1,4 +1,5 @@
 
+% Codigo pendiente de prueba 
 syms tethaini d w v x y tetha xini yini 
 A =[0 0 -v*sin(tethaini)-(d*w*cos(tethaini));
    0 0  v*cos(tethaini)-(d*w*sin(tethaini));
